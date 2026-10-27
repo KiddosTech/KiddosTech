@@ -16,10 +16,10 @@
 
 ## 🎯 About Me
 
-I'm **KiddosTech**, a 12-year-old developer from Indonesia currently in **7th Grade**. Despite my age, I'm deeply passionate about coding, game development, web applications, and cybersecurity. I believe that age is just a number when it comes to learning and creating amazing projects!
+Hi, I'm **KiddosTech**, a 12-year-old developer from Indonesia currently in **7th Grade**. Even though I'm still young, I have a strong passion for coding, game development, web applications, and cybersecurity. I believe creativity and curiosity can turn simple ideas into meaningful projects.
 
 ### 🏆 My Journey
-- 🎓 Grade 7 Student with a passion for technology
+- 🎓 Grade 7 student with a passion for technology
 - 💻 Self-taught programmer exploring multiple languages and frameworks
 - 🚀 Open-source enthusiast building practical tools and games
 - 🔒 Interested in cybersecurity and ethical hacking
@@ -80,7 +80,7 @@ I'm **KiddosTech**, a 12-year-old developer from Indonesia currently in **7th Gr
 ### 🎮 Game Development & Game Engines
 
 #### [BoldMaker](https://github.com/KiddosTech/BoldMaker)
-> A Web-based Game Engine based on Google Blockly
+> A web-based game engine built with Google Blockly
 - 🎯 Visual block-based game creation
 - 🌐 No-code game development
 - 📱 Cross-browser compatible
@@ -91,9 +91,9 @@ I'm **KiddosTech**, a 12-year-old developer from Indonesia currently in **7th Gr
 ---
 
 #### [clickdev-plugplay](https://github.com/KiddosTech/clickdev-plugplay)
-> Visual drag & drop event system for Godot 4 — make games without code
-- 🎮 Godot 4 Plugin
-- 🖱️ Drag & drop interface
+> Visual drag-and-drop event system for Godot 4 — build games without writing code
+- 🎮 Godot 4 plugin
+- 🖱️ Drag-and-drop interface
 - ⚡ Event-driven game development
 - ⭐ **3 Stars**
 
@@ -106,7 +106,7 @@ I'm **KiddosTech**, a 12-year-old developer from Indonesia currently in **7th Gr
 ### 🔍 Security & Pentesting
 
 #### [Axolotl-Kernel](https://github.com/KiddosTech/Axolotl-Kernel)
-> A lightweight, modular CLI pentesting environment built for security testing and reconnaissance
+> A lightweight, modular CLI pentesting environment for security testing and reconnaissance
 - 🔐 Security testing tools
 - 🛡️ Ethical hacking framework
 - 📡 Reconnaissance capabilities
@@ -145,7 +145,7 @@ I'm **KiddosTech**, a 12-year-old developer from Indonesia currently in **7th Gr
 ---
 
 #### [moldcheck-ng](https://github.com/KiddosTech/moldcheck-ng)
-> A Next-Generation Fork of Moldcheck
+> A next-generation fork of Moldcheck
 - 🔄 Modern TypeScript rewrite
 - 🌐 Web-based interface
 - 📊 Advanced features
@@ -158,7 +158,7 @@ I'm **KiddosTech**, a 12-year-old developer from Indonesia currently in **7th Gr
 ### 💻 System Tools & CLI
 
 #### [OhMyDashboard](https://github.com/KiddosTech/OhMyDashboard)
-> A Terminal Dashboard with Hacker-vibes built with Golang
+> A terminal dashboard with hacker vibes, built with Go
 - 🎨 Beautiful terminal UI
 - 🔧 System monitoring
 - ⚡ Fast performance with Go
@@ -170,9 +170,9 @@ I'm **KiddosTech**, a 12-year-old developer from Indonesia currently in **7th Gr
 ---
 
 #### [ramnotice](https://github.com/KiddosTech/ramnotice)
-> A system to check RAM on Linux
+> A system to check RAM usage on Linux
 - 📊 Memory usage monitoring
-- 💻 Linux focused
+- 💻 Linux-focused
 - ⭐ **1 Star**
 
 ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -184,7 +184,7 @@ I'm **KiddosTech**, a 12-year-old developer from Indonesia currently in **7th Gr
 
 #### [7ai-bot](https://github.com/KiddosTech/7ai-bot)
 > An AI-powered bot project
-- 🤖 Artificial Intelligence integration
+- 🤖 Artificial intelligence integration
 - 🔧 Automation tools
 - 💬 Interactive bot
 
@@ -195,7 +195,7 @@ I'm **KiddosTech**, a 12-year-old developer from Indonesia currently in **7th Gr
 ### 📊 Other Projects
 
 #### [atn-bin](https://github.com/KiddosTech/atn-bin)
-> Monitoring dan permintaan faktur pajak otomatis
+> Monitoring and automated tax invoice requests
 - 📋 Automated invoice management
 - 💼 Business process automation
 
@@ -222,14 +222,14 @@ I'm **KiddosTech**, a 12-year-old developer from Indonesia currently in **7th Gr
 
 ## 🎓 Learning Journey
 
-As a 7th grader, I'm constantly learning and improving my skills. Here's what I'm passionate about:
+As a 7th grader, I'm constantly learning and improving my skills. Here's what I'm most passionate about:
 
 - ✅ Web Development (Vue.js, TypeScript, JavaScript)
 - ✅ Game Development (Godot, GDScript)
 - ✅ System Programming (Go, Python)
 - ✅ Cybersecurity & Pentesting
 - ✅ DevOps & CI/CD
-- 🔄 Currently Learning: Advanced backend frameworks, cloud infrastructure
+- 🔄 Currently learning: advanced backend frameworks and cloud infrastructure
 
 ---
 
@@ -276,7 +276,7 @@ I'm always excited about:
 
 **"Code today, innovate tomorrow!"**
 
-> *A young developer proving that age doesn't limit your potential. Just 12 years old and already making an impact in the open-source community.* 💪
+> *A young developer proving that age doesn't limit your potential. At just 12 years old, I'm already making an impact in the open-source community.* 💪
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KiddosTech&style=flat-square&color=blue)
 
